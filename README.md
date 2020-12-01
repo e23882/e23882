@@ -4,7 +4,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e23882&layout=compact&hide=jupyter%20notebook&bg_color=DDDDDD" />
 </a>
 <a href="http://e23882.github.io/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=e23882&bg_color=DDDDDD&count_private=true&show_icons=true" /> 
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=e23882&bg_color=DDDDDD&count_private=true&show_icons=true" /> 
 </a>
 <!--
 **e23882/e23882** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
