@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<a href="http://e23882.github.io/">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e23882&layout=compact&hide=jupyter%20notebook&bg_color=DDDDDD" />
+</a>
 <!--
 **e23882/e23882** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
